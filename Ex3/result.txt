@@ -1,0 +1,11 @@
+Story
+the monkey runs in the jungle. the monkey is hungry.he spots a
+banana in a tree. it is big and yellow. he climbs up the tree.
+he eats the banana. he sees another banana. he eats that one too.
+the monkey is hungry no more.
+Count Vowel (a,e,i,o,u)
+Count of character a = 16
+Count of character e = 27
+Count of character i = 8
+Count of character o = 11
+Count of character u = 5
