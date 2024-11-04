@@ -1,0 +1,6 @@
+['E002', 'Jane', 'Smith', 'Developer', '45000', '28', 'F']
+['E004', 'Emily', 'Davis', 'Developer', '46000', '29', 'F']
+['E007', 'James', 'Taylor', 'Tester', '38000', '26', 'M']
+['E008', 'Mary', 'Anderson', 'HR', '48000', '32', 'F']
+['E009', 'Chris', 'Lee', 'Developer', '47000', '31', 'M']
+other Students:5

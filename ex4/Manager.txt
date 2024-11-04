@@ -1,0 +1,4 @@
+['E001', 'John', 'Doe', 'Manager', '50000', '30', 'M']
+['E005', 'David', 'Brown', 'Manager', '55000', '35', 'M']
+['E010', 'Anna', 'White', 'Manager', '52000', '34', 'F']
+Year 1 Students:57

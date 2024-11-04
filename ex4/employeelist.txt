@@ -1,0 +1,10 @@
+E001 John Doe Manager 50000 30 M
+E002 Jane Smith Developer 45000 28 F
+E003 Michael Johnson Designer 40000 25 M
+E004 Emily Davis Developer 46000 29 F
+E005 David Brown Manager 55000 35 M
+E006 Sarah Wilson Designer 42000 27 F
+E007 James Taylor Tester 38000 26 M
+E008 Mary Anderson HR 48000 32 F
+E009 Chris Lee Developer 47000 31 M
+E010 Anna White Manager 52000 34 F
