@@ -1,0 +1,15 @@
+PRODUCT INVENTORY REPORT 
+Name      QUANTITY  PRICE     TOTAL VALUE 
+====      =======   ======    =========  
+WidgetA   10        60        600        
+WidgetB   5         120       600        
+WidgetC   3         150       450        
+WidgetD   7         70        490        
+Laptop    15        25000     375000     
+Smartphone10        8000      80000      
+Headphones15        1500      22500      
+Monitor   10        1350      13500      
+Mouse     50        500       25000      
+Printer   8         5000      40000      
+=================================
+total value = 558140
